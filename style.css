@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.taskData p{
+    font-size:0.8rem;
+}
